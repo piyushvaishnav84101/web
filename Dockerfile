@@ -1,3 +1,3 @@
-FROM	ubuntu/apche2
+FROM	ubuntu/apache2
 COPY	./index.html	/var/www/html/index.html
 
